@@ -51,7 +51,7 @@ class _LoginPageState extends State<LoginPage> {
           padding: const EdgeInsets.symmetric(horizontal: 24.0),
           children: <Widget>[
         children: <Widget>[
-            Image.asset('assets/diamond.png'),
+            Image.asset('assets/diamond.png', color: kShrineBlack),
         const SizedBox(height: 16.0),
         Text(
           'SHRINE',
